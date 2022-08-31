@@ -1,0 +1,36 @@
+body{
+    background-color: #ACDDE7;
+}
+
+
+button{
+    border: 0;
+
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    border-radius: 5px;
+    background-color: #ADB9E3;
+    color: #B744B8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+    width: 33%;
+    height: 10%;
+    min-width: 230px;
+    max-height: 100px;
+}
+
+button:hover{
+    cursor: pointer;
+}
