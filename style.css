@@ -27,8 +27,9 @@ button{
     margin: auto;
     width: 33%;
     height: 10%;
-    min-width: 230px;
+    min-width: 275px;
     max-height: 100px;
+    white-space: pre;
 }
 
 button:hover{
